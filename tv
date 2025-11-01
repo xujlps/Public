@@ -19,3 +19,5 @@ http://192.168.3.88:35455/bilibili/8178490
 http://192.168.3.88:35455/bilibili/21686237
 #EXTINF:-3 tvg-logo="https://yang.188766.xyz/yang?url=https%3A%2F%2Ftv.iill.top%2FLOGO%2F8178490%26bilibili%26logo" group-title="央视网",央视频
 http://192.168.3.88:35455/bilibili/21623527
+#EXTINF:-4 tvg-id="江苏卫视" tvg-name="江苏卫视"  group-title="江苏卫视",江苏卫视
+http://192.168.3.88:35455/douyin/rid/417926571322?from_search=true(?stream=hls)
