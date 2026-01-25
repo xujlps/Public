@@ -33,12 +33,8 @@ rtp://239.49.8.56:9826
 rtp://239.49.0.128:8000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://111.112114.xyz/logo/CCTV16.png" group-title="IPTV央视",CCTV-16 奥林匹克
 rtp://239.49.8.31:8000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://111.112114.xyz/logo/CCTV16.png" group-title="IPTV央视",CCTV-16 奥林匹克4K
-rtp://239.49.0.109:8000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://111.112114.xyz/logo/CCTV17.png" group-title="IPTV央视",CCTV-17 农业农村
 rtp://239.49.8.52:9810
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://111.112114.xyz/logo/CCTV4K.png" group-title="IPTV央视",CCTV-4K 超高清
-rtp://239.49.0.82:8000
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://111.112114.xyz/logo/CGTN.png" group-title="IPTV央视",CGTN 英语
 rtp://239.49.0.9:8064
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://111.112114.xyz/logo/CGTN俄语.png" group-title="IPTV央视",CGTN 俄语
@@ -48,8 +44,6 @@ rtp://239.49.1.30:8000
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://111.112114.xyz/logo/CGTN法语.png" group-title="IPTV央视",CGTN 法语
 rtp://239.49.1.31:8000
 
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://111.112114.xyz/logo/江苏卫视4K.png" group-title="IPTV卫视",江苏卫视4K-50FPS
-rtp://239.49.1.62:8000
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://111.112114.xyz/logo/江苏卫视.png" group-title="IPTV卫视",江苏卫视
 rtp://239.49.8.16:9602
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://111.112114.xyz/logo/江苏新闻.png" group-title="IPTV卫视",江苏新闻
@@ -71,44 +65,22 @@ rtp://239.49.0.22:8168
 rtp://239.49.1.23:6000
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://111.112114.xyz/logo/江苏财富天下.png" group-title="IPTV卫视",财富天下
 rtp://239.49.1.29:6000
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://111.112114.xyz/logo/湖南卫视4K.png" group-title="IPTV卫视",湖南卫视4K-50FPS
-rtp://239.49.1.68:8000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://111.112114.xyz/logo/湖南卫视.png" group-title="IPTV卫视",湖南卫视
 rtp://239.49.8.12:9418
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://111.112114.xyz/logo/浙江卫视4K.png" group-title="IPTV卫视",浙江卫视4K-50FPS
-rtp://239.49.1.64:8000
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://111.112114.xyz/logo/浙江卫视.png" group-title="IPTV卫视",浙江卫视
 rtp://239.49.8.20:9618
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://111.112114.xyz/logo/东方卫视4K.png" group-title="IPTV卫视",东方卫视4K-50FPS
-rtp://239.49.1.70:8000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://111.112114.xyz/logo/东方卫视.png" group-title="IPTV卫视",东方卫视
 rtp://239.49.8.17:9606
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://111.112114.xyz/logo/北京卫视4K.png" group-title="IPTV卫视",北京卫视4K-50FPS
-rtp://239.49.0.253:8000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://111.112114.xyz/logo/北京卫视4K.png" group-title="IPTV卫视",北京卫视4K-25FPS
-rtp://239.49.0.42:8000
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://111.112114.xyz/logo/北京卫视.png" group-title="IPTV卫视",北京卫视
 rtp://239.49.8.11:9414
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://111.112114.xyz/logo/深圳卫视4K.png" group-title="IPTV卫视",深圳卫视4K-50FPS
-rtp://239.49.1.28:8000
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://111.112114.xyz/logo/深圳卫视4K.png" group-title="IPTV卫视",深圳卫视4K-25FPS
-rtp://239.49.1.27:8000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://111.112114.xyz/logo/深圳卫视.png" group-title="IPTV卫视",深圳卫视
 rtp://239.49.8.15:9430
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://111.112114.xyz/logo/广东卫视4K.png" group-title="IPTV卫视",广东卫视4K-50FPS
-rtp://239.49.1.26:8000
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://111.112114.xyz/logo/广东卫视4K.png" group-title="IPTV卫视",广东卫视4K-25FPS
-rtp://239.49.1.24:8000
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://111.112114.xyz/logo/广东卫视.png" group-title="IPTV卫视",广东卫视
 rtp://239.49.8.13:9422
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://111.112114.xyz/logo/广西卫视.png" group-title="IPTV卫视",广西卫视
 rtp://239.49.8.10:8000
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://111.112114.xyz/logo/山东卫视4K.png" group-title="IPTV卫视",山东卫视4K-50FPS
-rtp://239.49.1.72:8000
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://111.112114.xyz/logo/山东卫视.png" group-title="IPTV卫视",山东卫视
 rtp://239.49.8.7:9306
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://111.112114.xyz/logo/四川卫视4K.png" group-title="IPTV卫视",四川卫视4K-50FPS
-rtp://239.49.1.66:8000
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://111.112114.xyz/logo/四川卫视.png" group-title="IPTV卫视",四川卫视
 rtp://239.49.8.110:8000
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://111.112114.xyz/logo/重庆卫视.png" group-title="IPTV卫视",重庆卫视
@@ -154,29 +126,41 @@ rtp://239.49.0.125:8000
 rtp://239.49.0.109:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://111.112114.xyz/logo/CCTV4K.png" group-title="IPTV超清",CCTV-4K 超高清
 rtp://239.49.0.82:8000
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://111.112114.xyz/logo/江苏卫视4K.png" group-title="IPTV超清",江苏卫视4K-50FPS
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://111.112114.xyz/logo/江苏卫视4K.png" group-title="IPTV超清",江苏卫视4K(SDR)-25FPS
+rtp://239.49.1.61:8000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://111.112114.xyz/logo/江苏卫视4K.png" group-title="IPTV超清",江苏卫视4K(HDR)-50FPS
 rtp://239.49.1.62:8000
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://111.112114.xyz/logo/湖南卫视4K.png" group-title="IPTV超清",湖南卫视4K-50FPS
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://111.112114.xyz/logo/湖南卫视4K.png" group-title="IPTV超清",湖南卫视4K(SDR)-25FPS
+rtp://239.49.1.67:8000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://111.112114.xyz/logo/湖南卫视4K.png" group-title="IPTV超清",湖南卫视4K(HDR)-50FPS
 rtp://239.49.1.68:8000
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://111.112114.xyz/logo/浙江卫视4K.png" group-title="IPTV超清",浙江卫视4K-50FPS
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://111.112114.xyz/logo/浙江卫视4K.png" group-title="IPTV超清",浙江卫视4K(SDR)-25FPS
+rtp://239.49.1.63:8000
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://111.112114.xyz/logo/浙江卫视4K.png" group-title="IPTV超清",浙江卫视4K(HDR)-50FPS
 rtp://239.49.1.64:8000
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://111.112114.xyz/logo/东方卫视4K.png" group-title="IPTV超清",东方卫视4K-50FPS
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://111.112114.xyz/logo/东方卫视4K.png" group-title="IPTV超清",东方卫视4K(SDR)-25FPS
+rtp://239.49.1.69:8000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://111.112114.xyz/logo/东方卫视4K.png" group-title="IPTV超清",东方卫视4K(HDR)-50FPS
 rtp://239.49.1.70:8000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://111.112114.xyz/logo/北京卫视4K.png" group-title="IPTV超清",北京卫视4K-50FPS
-rtp://239.49.0.253:8000
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://111.112114.xyz/logo/北京卫视4K.png" group-title="IPTV超清",北京卫视4K-25FPS
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://111.112114.xyz/logo/北京卫视4K.png" group-title="IPTV超清",北京卫视4K(SDR)-25FPS
 rtp://239.49.0.42:8000
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://111.112114.xyz/logo/深圳卫视4K.png" group-title="IPTV超清",深圳卫视4K-50FPS
-rtp://239.49.1.28:8000
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://111.112114.xyz/logo/深圳卫视4K.png" group-title="IPTV超清",深圳卫视4K-25FPS
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://111.112114.xyz/logo/北京卫视4K.png" group-title="IPTV超清",北京卫视4K(HDR)-50FPS
+rtp://239.49.0.253:8000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://111.112114.xyz/logo/深圳卫视4K.png" group-title="IPTV超清",深圳卫视4K(SDR)-25FPS
 rtp://239.49.1.27:8000
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://111.112114.xyz/logo/广东卫视4K.png" group-title="IPTV超清",广东卫视4K-50FPS
-rtp://239.49.1.26:8000
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://111.112114.xyz/logo/广东卫视4K.png" group-title="IPTV超清",广东卫视4K-25FPS
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://111.112114.xyz/logo/深圳卫视4K.png" group-title="IPTV超清",深圳卫视4K(HDR)-50FPS
+rtp://239.49.1.28:8000
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://111.112114.xyz/logo/广东卫视4K.png" group-title="IPTV超清",广东卫视4K(SDR)-25FPS
 rtp://239.49.1.24:8000
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://111.112114.xyz/logo/四川卫视4K.png" group-title="IPTV超清",四川卫视4K-50FPS
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://111.112114.xyz/logo/广东卫视4K.png" group-title="IPTV超清",广东卫视4K(HDR)-50FPS
+rtp://239.49.1.26:8000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://111.112114.xyz/logo/四川卫视4K.png" group-title="IPTV超清",四川卫视4K(SDR)-25FPS
+rtp://239.49.1.65:8000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://111.112114.xyz/logo/四川卫视4K.png" group-title="IPTV超清",四川卫视4K(HDR)-50FPS
 rtp://239.49.1.66:8000
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://111.112114.xyz/logo/山东卫视4K.png" group-title="IPTV超清",山东卫视4K-50FPS
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://111.112114.xyz/logo/山东卫视4K.png" group-title="IPTV超清",山东卫视4K(SDR)-25FPS
+rtp://239.49.1.71:8000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://111.112114.xyz/logo/山东卫视4K.png" group-title="IPTV超清",山东卫视4K(HDR)-50FPS
 rtp://239.49.1.72:8000
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://111.112114.xyz/logo/欢笑剧场4K.png" group-title="IPTV超清",欢笑剧场4K
 rtp://239.49.8.106:8000
@@ -256,8 +240,6 @@ rtp://239.49.0.229:8000
 rtp://239.49.8.96:8000
 #EXTINF:-1 tvg-name="苏超" tvg-logo="https://111.112114.xyz/logo/江苏省城市足球联赛0.png" group-title="IPTV其他",苏超2
 rtp://239.49.8.97:8000
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://111.112114.xyz/logo/欢笑剧场4K.png" group-title="IPTV其他",欢笑剧场4K
-rtp://239.49.8.106:8000
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://111.112114.xyz/logo/欢笑剧场.png" group-title="IPTV其他",欢笑剧场
 rtp://239.49.8.47:8060
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://111.112114.xyz/logo/都市剧场.png" group-title="IPTV其他",都市剧场
