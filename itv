@@ -1,4 +1,16 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="苏州电视台",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-id="苏州社会经济" tvg-name="苏州社会经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou2.png" group-title="苏州电视台",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="苏州电视台",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou4.png" group-title="苏州电视台",苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png" group-title="苏州电视台",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://111.112114.xyz/logo/CCTV1.png" group-title="IPTV央视",CCTV-1 综合
 rtp://239.49.8.19:9614
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://111.112114.xyz/logo/CCTV2.png" group-title="IPTV央视",CCTV-2 财经
