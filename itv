@@ -396,3 +396,20 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
 #EXTINF:-1 group-title="咪视界直播",咪视通-45
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13"  group-title="直播",CCTV13
+http://192.168.3.88:35455/douyin/rid/547977714661?from_search=true(?stream=hls)
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13"  group-title="直播",CCTV13
+http://192.168.3.88:35455/douyin/rid/127453393722?from_search=true(?stream=hls)
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13"  group-title="直播",CCTV13
+http://192.168.3.88:35455/douyin/rid/870887192950?from_search=true(?stream=hls)
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13"  group-title="直播",CCTV13
+http://192.168.3.88:35455/douyin/rid/282773369501?from_search=true(?stream=hls)
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13"  group-title="直播",CCTV13
+http://192.168.3.88:35455/douyin/rid/50828500437?from_search=true(?stream=hls)
+#EXTINF:-2 tvg-id="CCTV2" tvg-name="CCTV2"  group-title="直播",CCTV2
+http://192.168.3.88:35455/douyin/rid/296728101980?from_search=true(?stream=hls)
+#EXTINF:-4 tvg-id="江苏卫视" tvg-name="江苏卫视"  group-title="直播",江苏卫视
+http://192.168.3.88:35455/douyin/rid/417926571322?from_search=true(?stream=hls)
+#EXTINF:-5 tvg-id="汽水音乐APP" tvg-name="汽水音乐APP"  group-title="直播", 汽水音乐APP
+http://192.168.3.88:35455/douyin/rid/875402591878?from_search=true(?stream=hls)
