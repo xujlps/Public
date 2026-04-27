@@ -55,6 +55,18 @@ rtp://239.49.0.111:8000
 rtp://239.49.1.30:8000
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTNFfra.png" group-title="IPTV央视",CGTN 法语
 rtp://239.49.1.31:8000
+#EXTINF:-1 tvg-name="央视精品" group-title="IPTV央视",央视精品
+rtp://239.49.8.90:8000
+#EXTINF:-1 tvg-name="第一剧场" group-title="IPTV央视",第一剧场
+rtp://239.49.8.94:8000
+#EXTINF:-1 tvg-name="风云剧场" group-title="IPTV央视",风云剧场
+rtp://239.49.8.89:8000
+#EXTINF:-1 tvg-name="央视台球" group-title="IPTV央视",央视台球
+rtp://239.49.8.32:8000
+#EXTINF:-1 tvg-name="风云音乐" group-title="IPTV央视",风云音乐
+rtp://239.49.8.92:8000
+#EXTINF:-1 tvg-name="世界地理" group-title="IPTV央视",世界地理
+rtp://239.49.8.87:8000
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="IPTV卫视",江苏卫视
 rtp://239.49.8.16:9602
@@ -110,8 +122,26 @@ rtp://239.49.8.113:8000
 rtp://239.49.8.48:8000
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/黑龙江卫视.png" group-title="IPTV卫视",黑龙江卫视
 rtp://239.49.8.14:9426
+#EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV卫视",陕西卫视
+rtp://239.49.0.233:8000
+#EXTINF:-1 tvg-name="山西卫视" group-title="IPTV卫视",山西卫视
+rtp://239.49.0.67:8528
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="IPTV卫视",内蒙古卫视
+rtp://239.49.0.180:8000
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV卫视",宁夏卫视
+rtp://239.49.0.171:8000
+#EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV卫视",新疆卫视
+rtp://239.49.0.178:8000
+#EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV卫视",西藏卫视
+rtp://239.49.0.245:8000
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV卫视",大湾区卫视
+rtp://239.49.0.234:8000
+#EXTINF:-1 tvg-name="山东教育卫视" group-title="IPTV卫视",山东教育卫视
+rtp://239.49.0.235:8000
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png" group-title="IPTV卫视",CETV-1
 rtp://239.49.8.115:8000
+#EXTINF:-1 tvg-name="CETV-2" group-title="IPTV卫视",CETV-2
+rtp://239.49.0.71:8560
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png" group-title="IPTV卫视",CETV-4
 rtp://239.49.0.125:8000
 
@@ -175,6 +205,8 @@ rtp://239.49.8.119:8000
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Jiangsu6.png" group-title="IPTV地方",江苏国际
 rtp://239.49.0.22:8168
 rtp://239.49.1.23:6000
+#EXTINF:-1 tvg-name="江苏学习" group-title="IPTV地方",江苏学习
+rtp://239.49.0.210:8884
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏财富天下.png" group-title="IPTV地方",财富天下
 rtp://239.49.1.29:6000
 
@@ -249,6 +281,8 @@ rtp://239.49.0.225:8000
 #EXTINF:-1 tvg-name="连云港生活频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/连云港生活频道.png" group-title="IPTV地方",连云港生活频道
 rtp://239.49.0.229:8000
 
+#EXTINF:-1 tvg-name="电视指南" group-title="IPTV其他",电视指南
+rtp://239.49.8.84:8000
 #EXTINF:-1 tvg-name="苏超" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏省城市足球联赛0.png" group-title="IPTV其他",苏超1
 rtp://239.49.8.96:8000
 #EXTINF:-1 tvg-name="苏超" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏省城市足球联赛0.png" group-title="IPTV其他",苏超2
@@ -291,6 +325,10 @@ rtp://239.49.0.205:8000
 rtp://239.49.0.209:8000
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南梨园.png" group-title="IPTV其他",梨园频道
 rtp://239.49.8.193:8000
+#EXTINF:-1 tvg-name="女性时尚" group-title="IPTV其他",女性时尚
+rtp://239.49.8.93:8000
+#EXTINF:-1 tvg-name="先锋乒羽" group-title="IPTV其他",先锋乒羽
+rtp://239.49.0.145:8000
 
 #EXTINF:-1 group-title="咪视界直播",咪视界4K
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
