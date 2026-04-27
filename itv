@@ -47,14 +47,6 @@ rtp://239.49.0.128:8000
 rtp://239.49.8.31:8000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="IPTV央视",CCTV-17 农业农村
 rtp://239.49.8.52:9810
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTN.png" group-title="IPTV央视",CGTN 英语
-rtp://239.49.0.9:8064
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTNpyc.png" group-title="IPTV央视",CGTN 俄语
-rtp://239.49.0.111:8000
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTNesp.png" group-title="IPTV央视",CGTN 西语
-rtp://239.49.1.30:8000
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTNFfra.png" group-title="IPTV央视",CGTN 法语
-rtp://239.49.1.31:8000
 #EXTINF:-1 tvg-name="央视精品" group-title="IPTV央视",央视精品
 rtp://239.49.8.90:8000
 #EXTINF:-1 tvg-name="第一剧场" group-title="IPTV央视",第一剧场
@@ -67,6 +59,14 @@ rtp://239.49.8.32:8000
 rtp://239.49.8.92:8000
 #EXTINF:-1 tvg-name="世界地理" group-title="IPTV央视",世界地理
 rtp://239.49.8.87:8000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTN.png" group-title="IPTV央视",CGTN 英语
+rtp://239.49.0.9:8064
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTNpyc.png" group-title="IPTV央视",CGTN 俄语
+rtp://239.49.0.111:8000
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTNesp.png" group-title="IPTV央视",CGTN 西语
+rtp://239.49.1.30:8000
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CGTNFfra.png" group-title="IPTV央视",CGTN 法语
+rtp://239.49.1.31:8000
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="IPTV卫视",江苏卫视
 rtp://239.49.8.16:9602
