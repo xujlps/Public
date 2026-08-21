@@ -143,31 +143,31 @@ rtp://239.49.8.83:8000
 rtp://239.49.8.113:8000
 #EXTINF:-165 tvg-name="甘肃卫视" group-title="IPTV卫视",甘肃卫视
 rtp://239.49.0.250:8000
-#EXTINF:-167 tvg-name="河南卫视" group-title="IPTV卫视",河南卫视
+#EXTINF:-165 tvg-name="河南卫视" group-title="IPTV卫视",河南卫视
 rtp://239.49.8.29:8000
-#EXTINF:-170 tvg-name="内蒙古卫视" group-title="IPTV卫视",内蒙古卫视
+#EXTINF:-165 tvg-name="内蒙古卫视" group-title="IPTV卫视",内蒙古卫视
 rtp://239.49.1.75:8000
-#EXTINF:-172 tvg-name="陕西卫视" group-title="IPTV卫视",陕西卫视
+#EXTINF:-165 tvg-name="陕西卫视" group-title="IPTV卫视",陕西卫视
 rtp://239.49.1.74:8000
-#EXTINF:-174 tvg-name="广西卫视" group-title="IPTV卫视",广西卫视
+#EXTINF:-165 tvg-name="广西卫视" group-title="IPTV卫视",广西卫视
 rtp://239.49.8.10:8000
-#EXTINF:-177 tvg-name="青海卫视" group-title="IPTV卫视",青海卫视
+#EXTINF:-165 tvg-name="青海卫视" group-title="IPTV卫视",青海卫视
 rtp://239.49.0.81:8000
-#EXTINF:-180 tvg-name="新疆卫视" group-title="IPTV卫视",新疆卫视
+#EXTINF:-165 tvg-name="新疆卫视" group-title="IPTV卫视",新疆卫视
 rtp://239.49.1.57:8000
-#EXTINF:-182 tvg-name="西藏卫视" group-title="IPTV卫视",西藏卫视
+#EXTINF:-165 tvg-name="西藏卫视" group-title="IPTV卫视",西藏卫视
 rtp://239.49.1.56:8000
-#EXTINF:-185 tvg-name="宁夏卫视" group-title="IPTV卫视",宁夏卫视
+#EXTINF:-165 tvg-name="宁夏卫视" group-title="IPTV卫视",宁夏卫视
 rtp://239.49.1.60:8000
-#EXTINF:-187 tvg-name="山西卫视" group-title="IPTV卫视",山西卫视
+#EXTINF:-165 tvg-name="山西卫视" group-title="IPTV卫视",山西卫视
 rtp://239.49.1.55:8000
-#EXTINF:-190 tvg-name="兵团卫视" group-title="IPTV卫视",兵团卫视
+#EXTINF:-165 tvg-name="兵团卫视" group-title="IPTV卫视",兵团卫视
 rtp://239.49.1.58:8000
 #EXTINF:-192 tvg-name="卡酷少儿" group-title="IPTV其他",卡酷少儿
 rtp://239.49.0.148:8000
-#EXTINF:-193 tvg-name="CETV1" group-title="卫视",CETV1
+#EXTINF:-165 tvg-name="CETV1" group-title="IPTV卫视",CETV1
 rtp://239.49.8.115:8000
-#EXTINF:-196 tvg-name="CETV4" group-title="卫视",CETV4
+#EXTINF:-165 tvg-name="CETV4" group-title="IPTV卫视",CETV4
 rtp://239.49.0.125:8000
 #EXTINF:-198 tvg-name="金鹰卡通" group-title="IPTV其他",金鹰卡通
 rtp://239.49.8.33:8000
@@ -187,21 +187,21 @@ rtp://239.49.0.97:8000
 rtp://239.49.8.37:8000
 #EXTINF:-207 tvg-name="优漫卡通" group-title="IPTV其他",优漫卡通
 rtp://239.49.8.119:8000
-#EXTINF:-210 tvg-name="江苏城市" group-title="IPTV卫视",江苏城市
+#EXTINF:-210 tvg-name="江苏城市" group-title="IPTV地方",江苏城市
 rtp://239.49.8.107:8000
-#EXTINF:-213 tvg-name="江苏国际" group-title="IPTV卫视",江苏国际
+#EXTINF:-213 tvg-name="江苏国际" group-title="IPTV地方",江苏国际
 rtp://239.49.1.81:8000
-#EXTINF:-216 tvg-name="江苏教育" group-title="IPTV卫视",江苏教育
+#EXTINF:-216 tvg-name="江苏教育" group-title="IPTV地方",江苏教育
 rtp://239.49.8.122:8000
-#EXTINF:-219 tvg-name="江苏影视" group-title="IPTV卫视",江苏影视
+#EXTINF:-219 tvg-name="江苏影视" group-title="IPTV地方",江苏影视
 rtp://239.49.8.118:8000
-#EXTINF:-222 tvg-name="江苏综艺" group-title="IPTV卫视",江苏综艺
+#EXTINF:-222 tvg-name="江苏综艺" group-title="IPTV地方",江苏综艺
 rtp://239.49.8.108:8000
-#EXTINF:-225 tvg-name="江苏新闻" group-title="IPTV卫视",江苏新闻
+#EXTINF:-225 tvg-name="江苏新闻" group-title="IPTV地方",江苏新闻
 rtp://239.49.8.120:8000
-#EXTINF:-228 tvg-name="江苏体育休闲" group-title="IPTV卫视",江苏体育休闲
+#EXTINF:-228 tvg-name="江苏体育休闲" group-title="IPTV地方",江苏体育休闲
 rtp://239.49.8.117:8000
-#EXTINF:-231 tvg-name="山东教育卫视" group-title="IPTV卫视",山东教育卫视
+#EXTINF:-165 tvg-name="山东教育卫视" group-title="IPTV卫视",山东教育卫视
 rtp://239.49.0.252:8000
 #EXTINF:-232 tvg-name="文物宝库" group-title="IPTV其他",文物宝库
 rtp://239.49.0.209:8000
@@ -215,7 +215,7 @@ rtp://239.49.1.79:8000
 rtp://239.49.1.80:8000
 #EXTINF:-238 tvg-name="中国天气" group-title="IPTV其他",中国天气
 rtp://239.49.0.94:8000
-#EXTINF:-239 tvg-name="三沙卫视" group-title="IPTV卫视",三沙卫视
+#EXTINF:-165 tvg-name="三沙卫视" group-title="IPTV卫视",三沙卫视
 rtp://239.49.0.167:8000
 #EXTINF:-241 tvg-name="睛彩青少" group-title="IPTV其他",睛彩青少
 rtp://239.49.8.46:8000
@@ -227,23 +227,23 @@ rtp://239.49.8.42:8000
 rtp://239.49.8.64:8000
 #EXTINF:-245 tvg-name="财富天下" group-title="IPTV其他",财富天下
 rtp://239.49.1.76:8000
-#EXTINF:-254 tvg-name="常州综合" group-title="IPTV卫视",常州综合
+#EXTINF:-254 tvg-name="常州综合" group-title="IPTV地方",常州综合
 rtp://239.49.1.83:8000
-#EXTINF:-255 tvg-name="常州生活" group-title="IPTV卫视",常州生活
+#EXTINF:-255 tvg-name="常州生活" group-title="IPTV地方",常州生活
 rtp://239.49.1.85:8000
-#EXTINF:-256 tvg-name="常州都市" group-title="IPTV卫视",常州都市
+#EXTINF:-256 tvg-name="常州都市" group-title="IPTV地方",常州都市
 rtp://239.49.1.84:8000
-#EXTINF:-265 tvg-name="盐城1" group-title="IPTV卫视",盐城1
+#EXTINF:-265 tvg-name="盐城1" group-title="IPTV地方",盐城1
 rtp://239.49.8.30:8000
-#EXTINF:-266 tvg-name="盐城2" group-title="IPTV卫视",盐城2
+#EXTINF:-266 tvg-name="盐城2" group-title="IPTV地方",盐城2
 rtp://239.49.0.88:8000
-#EXTINF:-274 tvg-name="无锡都市资讯" group-title="IPTV卫视",无锡都市资讯
+#EXTINF:-274 tvg-name="无锡都市资讯" group-title="IPTV地方",无锡都市资讯
 rtp://239.49.1.78:8000
-#EXTINF:-275 tvg-name="无锡新闻综合" group-title="IPTV卫视",无锡新闻综合
+#EXTINF:-275 tvg-name="无锡新闻综合" group-title="IPTV地方",无锡新闻综合
 rtp://239.49.1.77:8000
-#EXTINF:-281 tvg-name="常州金坛电视台" group-title="IPTV卫视",常州金坛电视台
+#EXTINF:-281 tvg-name="常州金坛电视台" group-title="IPTV地方",常州金坛电视台
 rtp://239.49.1.54:8000
-#EXTINF:-288 tvg-name="盐城射阳新闻综合" group-title="IPTV卫视",盐城射阳新闻综合
+#EXTINF:-288 tvg-name="盐城射阳新闻综合" group-title="IPTV地方",盐城射阳新闻综合
 rtp://239.49.0.158:8000
 #EXTINF:-313 tvg-name="好享购物" group-title="IPTV其他",好享购物
 rtp://239.49.8.121:8000
