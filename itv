@@ -163,6 +163,14 @@ rtp://239.49.1.60:8000
 rtp://239.49.1.55:8000
 #EXTINF:-165 tvg-name="兵团卫视" group-title="IPTV卫视",兵团卫视
 rtp://239.49.1.58:8000
+#EXTINF:-241 tvg-name="睛彩青少" group-title="IPTV其他",睛彩青少
+rtp://239.49.8.46:8000
+#EXTINF:-242 tvg-name="睛彩竞技" group-title="IPTV其他",睛彩竞技
+rtp://239.49.8.39:8000
+#EXTINF:-243 tvg-name="睛彩篮球" group-title="IPTV其他",睛彩篮球
+rtp://239.49.8.42:8000
+#EXTINF:-244 tvg-name="睛彩广场舞" group-title="IPTV其他",睛彩广场舞
+rtp://239.49.8.64:8000
 #EXTINF:-192 tvg-name="卡酷少儿" group-title="IPTV其他",卡酷少儿
 rtp://239.49.0.148:8000
 #EXTINF:-165 tvg-name="CETV1" group-title="IPTV卫视",CETV1
@@ -217,14 +225,6 @@ rtp://239.49.1.80:8000
 rtp://239.49.0.94:8000
 #EXTINF:-165 tvg-name="三沙卫视" group-title="IPTV卫视",三沙卫视
 rtp://239.49.0.167:8000
-#EXTINF:-241 tvg-name="睛彩青少" group-title="IPTV其他",睛彩青少
-rtp://239.49.8.46:8000
-#EXTINF:-242 tvg-name="睛彩竞技" group-title="IPTV其他",睛彩竞技
-rtp://239.49.8.39:8000
-#EXTINF:-243 tvg-name="睛彩篮球" group-title="IPTV其他",睛彩篮球
-rtp://239.49.8.42:8000
-#EXTINF:-244 tvg-name="睛彩广场舞" group-title="IPTV其他",睛彩广场舞
-rtp://239.49.8.64:8000
 #EXTINF:-245 tvg-name="财富天下" group-title="IPTV其他",财富天下
 rtp://239.49.1.76:8000
 #EXTINF:-254 tvg-name="常州综合" group-title="IPTV地方",常州综合
@@ -351,3 +351,5 @@ http://192.168.3.88:35455/douyin/rid/296728101980?from_search=true(?stream=hls)
 http://192.168.3.88:35455/douyin/rid/417926571322?from_search=true(?stream=hls)
 #EXTINF:-5 tvg-id="汽水音乐APP" tvg-name="汽水音乐APP"  group-title="直播", 汽水音乐APP
 http://192.168.3.88:35455/douyin/rid/875402591878?from_search=true(?stream=hls)
+#EXTINF:-5 tvg-id="Apple TV 4K杜比视界 F1" tvg-name="Apple TV 4K杜比视界 F1"  group-title="直播", Apple TV 4K杜比视界 F1
+http://82.156.243.185:55221/appletvf1.m3u8
